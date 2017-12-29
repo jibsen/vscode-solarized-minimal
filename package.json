@@ -1,0 +1,47 @@
+{
+    "name": "theme-solarized-minimal",
+    "displayName": "Solarized Minimal",
+    "description": "Solarized Minimal color theme",
+    "version": "1.0.0",
+    "publisher": "jibsen",
+    "license": "SEE LICENSE IN LICENSE",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+	"keywords": [
+		"solarized",
+		"theme",
+		"color-theme",
+		"dark",
+		"light"
+	],
+    "icon": "solarized_yin_yang.png",
+    "galleryBanner": {
+        "color": "#FDF6E3",
+        "theme": "light"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Solarized Minimal (dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/solarized_minimal_dark.tmTheme"
+            },
+            {
+                "label": "Solarized Minimal (light)",
+                "uiTheme": "vs",
+                "path": "./themes/solarized_minimal_light.tmTheme"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jibsen/vscode-solarized-minimal.git"
+    },
+    "bugs": {
+        "url": "https://github.com/jibsen/vscode-solarized-minimal/issues"
+    }
+}
