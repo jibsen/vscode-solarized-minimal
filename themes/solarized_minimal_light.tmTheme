@@ -67,7 +67,7 @@
 				<key>minimapBorder</key>
 				<string>#93a1a1</string>
 				<key>selection</key>
-				<string>#d2cbb9</string>
+				<string>#cccdc1</string>
 				<key>selectionBorder</key>
 				<string>#93a1a1</string>
 				<key>selectionForeground</key>
@@ -82,15 +82,15 @@
 				<string>stippled_underline</string>
 
 				<key>selectionHighlight</key>
-				<string>#e0d9c7</string>
+				<string>#dddacb</string>
 				<key>findMatchHighlight</key>
-				<string>#e0d9c7</string>
+				<string>#dddacb</string>
 				<key>currentFindMatchHighlight</key>
-				<string>#d2cbb9</string>
+				<string>#cccdc1</string>
 				<key>rangeHighlight</key>
 				<string>#eee8d5</string>
 				<key>hoverHighlight</key>
-				<string>#d2cbb9</string>
+				<string>#cccdc1</string>
 			</dict>
 		</dict>
 		<dict>
