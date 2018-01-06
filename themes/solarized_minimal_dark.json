@@ -1,0 +1,46 @@
+{
+	"tokenColors": "./solarized_minimal_dark.tmTheme",
+	"colors": {
+		"editor.background": "#002b36",
+		"editorCursor.foreground": "#93a1a1",
+		"editor.foreground": "#839496",
+		"editorIndentGuide.background": "#073642",
+		"editor.inactiveSelectionBackground": "#1b414c",
+		"editorWhitespace.foreground": "#073642",
+		"editor.lineHighlightBackground": "#073642",
+		"editor.selectionBackground": "#2b4c56",
+		"editor.findMatchBackground": "#2b4c56",
+		"editor.findMatchHighlightBackground": "#1b414c",
+		"editor.findRangeHighlightBackground": "#00212d",
+		"editor.rangeHighlightBackground": "#073642",
+		"editor.hoverHighlightBackground": "#2b4c56",
+		"editorRuler.foreground": "#3b5760",
+
+		"peekView.border": "#268bd2",
+		"peekViewEditor.background": "#00212d",
+		"peekViewEditor.matchHighlightBackground": "#002b36",
+
+		"editorGutter.modifiedBackground": "#1872a8",
+		"editorGutter.addedBackground": "#677c1c",
+		"editorGutter.deletedBackground": "#a93a32",
+
+		"editorOverviewRuler.border": "#3b5760",
+		"editorOverviewRuler.findMatchForeground": "#2b4c56",
+		"editorOverviewRuler.rangeHighlightForeground": "#073642",
+		"editorOverviewRuler.selectionHighlightForeground": "#2b4c56",
+		"editorOverviewRuler.wordHighlightForeground": "#073642",
+		"editorOverviewRuler.wordHighlightStrongForeground": "#2b4c56",
+
+		"editorOverviewRuler.modifiedForeground": "#1872a8",
+		"editorOverviewRuler.addedForeground": "#677c1c",
+		"editorOverviewRuler.deletedForeground": "#a93a32",
+		"editorOverviewRuler.errorForeground": "#a93a32",
+		"editorOverviewRuler.warningForeground": "#677c1c",
+		"editorOverviewRuler.infoForeground": "#677c1c",
+
+		"editorError.foreground": "#dc322f",
+		"editorWarning.foreground": "#859900",
+		"editorInfo.foreground": "#859900"
+	},
+	"name": "Solarized Minimal (dark)"
+}

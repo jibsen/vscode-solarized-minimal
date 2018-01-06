@@ -28,12 +28,12 @@
             {
                 "label": "Solarized Minimal (dark)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/solarized_minimal_dark.tmTheme"
+                "path": "./themes/solarized_minimal_dark.json"
             },
             {
                 "label": "Solarized Minimal (light)",
                 "uiTheme": "vs",
-                "path": "./themes/solarized_minimal_light.tmTheme"
+                "path": "./themes/solarized_minimal_light.json"
             }
         ]
     },
