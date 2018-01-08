@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.2.0
+
+  - Add overlay colors for diff and merge
+
 ## 1.1.0
 
   - Slightly adjust find and selection highlights
