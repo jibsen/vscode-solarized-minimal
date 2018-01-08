@@ -2,27 +2,30 @@
 	"tokenColors": "./solarized_minimal_dark.tmTheme",
 	"colors": {
 		"editor.background": "#002b36",
-		"editorCursor.foreground": "#93a1a1",
 		"editor.foreground": "#839496",
-		"editorIndentGuide.background": "#073642",
-		"editor.inactiveSelectionBackground": "#1b414c",
-		"editorWhitespace.foreground": "#073642",
-		"editor.lineHighlightBackground": "#073642",
+		"editorLineNumber.foreground": "#3b5760",
+		"editorCursor.foreground": "#93a1a1",
+
 		"editor.selectionBackground": "#2b4c56",
+		"editor.selectionHighlightBackground": "#2b4c5680",
+		"editor.inactiveSelectionBackground": "#1b414c",
+		"editor.wordHighlightBackground": "#1b414c",
+		"editor.wordHighlightStrongBackground": "#1b414c",
 		"editor.findMatchBackground": "#2b4c56",
 		"editor.findMatchHighlightBackground": "#1b414c",
 		"editor.findRangeHighlightBackground": "#00212d",
-		"editor.rangeHighlightBackground": "#073642",
 		"editor.hoverHighlightBackground": "#2b4c56",
+		"editor.lineHighlightBackground": "#073642",
+		"editorLink.activeForeground": "#268bd2",
+		"editor.rangeHighlightBackground": "#073642",
+
+		"editorWhitespace.foreground": "#073642",
+		"editorIndentGuide.background": "#073642",
 		"editorRuler.foreground": "#3b5760",
 
-		"peekView.border": "#268bd2",
-		"peekViewEditor.background": "#00212d",
-		"peekViewEditor.matchHighlightBackground": "#002b36",
-
-		"editorGutter.modifiedBackground": "#1872a8",
-		"editorGutter.addedBackground": "#677c1c",
-		"editorGutter.deletedBackground": "#a93a32",
+		"editorCodeLens.foreground": "#586e75",
+		"editorBracketMatch.background": "#073642",
+		"editorBracketMatch.border": "#93a1a1",
 
 		"editorOverviewRuler.border": "#3b5760",
 		"editorOverviewRuler.findMatchForeground": "#2b4c56",
@@ -40,7 +43,17 @@
 
 		"editorError.foreground": "#dc322f",
 		"editorWarning.foreground": "#859900",
-		"editorInfo.foreground": "#859900"
+		"editorInfo.foreground": "#859900",
+
+		"editorGutter.background": "#002b36",
+		"editorGutter.modifiedBackground": "#1872a8",
+		"editorGutter.addedBackground": "#677c1c",
+		"editorGutter.deletedBackground": "#a93a32",
+
+		"peekView.border": "#268bd2",
+		"peekViewEditor.background": "#00212d",
+		"peekViewEditorGutter.background": "#00212d",
+		"peekViewEditor.matchHighlightBackground": "#002b36"
 	},
 	"name": "Solarized Minimal (dark)"
 }
