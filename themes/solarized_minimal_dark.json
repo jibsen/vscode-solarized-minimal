@@ -50,10 +50,23 @@
 		"editorGutter.addedBackground": "#677c1c",
 		"editorGutter.deletedBackground": "#a93a32",
 
+		"diffEditor.insertedTextBackground": "#677c1c40",
+		"diffEditor.removedTextBackground": "#a93a3250",
+
 		"peekView.border": "#268bd2",
 		"peekViewEditor.background": "#00212d",
 		"peekViewEditorGutter.background": "#00212d",
-		"peekViewEditor.matchHighlightBackground": "#002b36"
+		"peekViewEditor.matchHighlightBackground": "#002b36",
+
+		"merge.currentHeaderBackground": "#85990060",
+		"merge.currentContentBackground": "#85990020",
+		"merge.incomingHeaderBackground": "#268bd260",
+		"merge.incomingContentBackground": "#268bd220",
+		"merge.commonHeaderBackground": "#586e7560",
+		"merge.commonContentBackground": "#586e7520",
+		"editorOverviewRuler.currentContentForeground": "#85990060",
+		"editorOverviewRuler.incomingContentForeground": "#268bd260",
+		"editorOverviewRuler.commonContentForeground": "#586e7560"
 	},
 	"name": "Solarized Minimal (dark)"
 }
