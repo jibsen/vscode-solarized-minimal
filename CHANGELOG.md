@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.2.1
+
+  - Add screenshot and usage instructions
+
 ## 1.2.0
 
   - Add overlay colors for diff and merge
